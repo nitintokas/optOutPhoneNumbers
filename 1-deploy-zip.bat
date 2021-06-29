@@ -1,0 +1,1 @@
+aws lambda update-function-code --function-name optOutPhoneNumbers --zip-file fileb://optOutPhoneNumbers.zip
